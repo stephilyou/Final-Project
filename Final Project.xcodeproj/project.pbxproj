@@ -17,6 +17,8 @@
 		BDF623502899A14D00482B6B /* Final_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF6234F2899A14D00482B6B /* Final_ProjectTests.swift */; };
 		BDF6235A2899A14D00482B6B /* Final_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF623592899A14D00482B6B /* Final_ProjectUITests.swift */; };
 		BDF6235C2899A14D00482B6B /* Final_ProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF6235B2899A14D00482B6B /* Final_ProjectUITestsLaunchTests.swift */; };
+		BDF62369289ACA5700482B6B /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF62368289ACA5700482B6B /* ViewControllerTwo.swift */; };
+		BDF6236B289ACA6A00482B6B /* ViewControllerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF6236A289ACA6A00482B6B /* ViewControllerThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		BDF623552899A14D00482B6B /* Final ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Final ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDF623592899A14D00482B6B /* Final_ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Final_ProjectUITests.swift; sourceTree = "<group>"; };
 		BDF6235B2899A14D00482B6B /* Final_ProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Final_ProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BDF62368289ACA5700482B6B /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
+		BDF6236A289ACA6A00482B6B /* ViewControllerThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				BDF623372899A14B00482B6B /* SceneDelegate.swift */,
 				BDF623392899A14B00482B6B /* ViewController.swift */,
 				BDF6233B2899A14B00482B6B /* Main.storyboard */,
+				BDF62368289ACA5700482B6B /* ViewControllerTwo.swift */,
+				BDF6236A289ACA6A00482B6B /* ViewControllerThree.swift */,
 				BDF623412899A14C00482B6B /* Assets.xcassets */,
 				BDF623432899A14C00482B6B /* LaunchScreen.storyboard */,
 				BDF623462899A14C00482B6B /* Info.plist */,
@@ -261,6 +267,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDF62369289ACA5700482B6B /* ViewControllerTwo.swift in Sources */,
+				BDF6236B289ACA6A00482B6B /* ViewControllerThree.swift in Sources */,
 				BDF6233A2899A14B00482B6B /* ViewController.swift in Sources */,
 				BDF623362899A14B00482B6B /* AppDelegate.swift in Sources */,
 				BDF623402899A14B00482B6B /* Final_Project.xcdatamodeld in Sources */,
